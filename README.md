@@ -142,8 +142,7 @@ Wine-Quality-Prediction-ML/
 
 ## 👩‍💻 Author
 
-**Sami Noor Saifi**  
-Machine Learning Enthusiast  
+Sami Noor Saifi
 
 ---
 
